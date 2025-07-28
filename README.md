@@ -22,7 +22,7 @@ To set up and run this project:
 
 Clone the repository:
 
-git clone https://github.com/YourGitHubUsername/HostelManagementSystem-Desktop.git
+git clone https://github.com/YourGitHubUsername/Hostel-Management.git
 
 Open in Visual Studio:
 Navigate to the cloned folder and open the HostelManagementSystem.sln (solution) file in Visual Studio 2022.
