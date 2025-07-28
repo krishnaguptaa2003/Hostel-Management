@@ -1,0 +1,51 @@
+C:\Users\Krish\source\repos\hostelproject\bin\Debug\hostelproject.exe.config
+C:\Users\Krish\source\repos\hostelproject\bin\Debug\hostelproject.exe
+C:\Users\Krish\source\repos\hostelproject\bin\Debug\hostelproject.pdb
+C:\Users\Krish\source\repos\hostelproject\obj\Debug\hostelproject.csproj.AssemblyReference.cache
+C:\Users\Krish\source\repos\hostelproject\obj\Debug\hostelproject.Properties.Resources.resources
+C:\Users\Krish\source\repos\hostelproject\obj\Debug\hostelproject.csproj.GenerateResource.cache
+C:\Users\Krish\source\repos\hostelproject\obj\Debug\hostelproject.csproj.CoreCompileInputs.cache
+C:\Users\Krish\source\repos\hostelproject\obj\Debug\hostelproject.exe
+C:\Users\Krish\source\repos\hostelproject\obj\Debug\hostelproject.pdb
+C:\Users\Krish\source\repos\hostelproject\obj\Debug\hostelproject.Rooms.resources
+C:\Users\Krish\source\repos\hostelproject\obj\Debug\hostelproject.Student.resources
+C:\Users\Krish\source\repos\hostelproject\bin\Debug\hostelproject.mdf
+C:\Users\Krish\source\repos\hostelproject\bin\Debug\hostelproject_log.ldf
+C:\Users\Krish\source\repos\hostelproject\obj\Debug\hostelproject.Employee.resources
+C:\Users\Krish\source\repos\hostelproject\obj\Debug\hostelproject.Fees.resources
+C:\Users\Krish\source\repos\hostelproject\obj\Debug\hostelproject.Mainpage.resources
+C:\Users\Krish\source\repos\hostelproject\obj\Debug\hostelproject.Salary.resources
+D:\C# Files\hostelproject\bin\Debug\hostelproject.mdf
+D:\C# Files\hostelproject\bin\Debug\hostelproject_log.ldf
+D:\C# Files\hostelproject\bin\Debug\hostelproject.exe.config
+D:\C# Files\hostelproject\bin\Debug\hostelproject.exe
+D:\C# Files\hostelproject\bin\Debug\hostelproject.pdb
+D:\C# Files\hostelproject\obj\Debug\hostelproject.csproj.AssemblyReference.cache
+D:\C# Files\hostelproject\obj\Debug\hostelproject.Employee.resources
+D:\C# Files\hostelproject\obj\Debug\hostelproject.Fees.resources
+D:\C# Files\hostelproject\obj\Debug\hostelproject.Mainpage.resources
+D:\C# Files\hostelproject\obj\Debug\hostelproject.Properties.Resources.resources
+D:\C# Files\hostelproject\obj\Debug\hostelproject.Rooms.resources
+D:\C# Files\hostelproject\obj\Debug\hostelproject.Salary.resources
+D:\C# Files\hostelproject\obj\Debug\hostelproject.Student.resources
+D:\C# Files\hostelproject\obj\Debug\hostelproject.csproj.GenerateResource.cache
+D:\C# Files\hostelproject\obj\Debug\hostelproject.csproj.CoreCompileInputs.cache
+D:\C# Files\hostelproject\obj\Debug\hostelproject.exe
+D:\C# Files\hostelproject\obj\Debug\hostelproject.pdb
+E:\C# Projects\hostelproject\bin\Debug\hostelproject.mdf
+E:\C# Projects\hostelproject\bin\Debug\hostelproject_log.ldf
+E:\C# Projects\hostelproject\bin\Debug\hostelproject.exe.config
+E:\C# Projects\hostelproject\bin\Debug\hostelproject.exe
+E:\C# Projects\hostelproject\bin\Debug\hostelproject.pdb
+E:\C# Projects\hostelproject\obj\Debug\hostelproject.csproj.AssemblyReference.cache
+E:\C# Projects\hostelproject\obj\Debug\hostelproject.Employee.resources
+E:\C# Projects\hostelproject\obj\Debug\hostelproject.Fees.resources
+E:\C# Projects\hostelproject\obj\Debug\hostelproject.Mainpage.resources
+E:\C# Projects\hostelproject\obj\Debug\hostelproject.Properties.Resources.resources
+E:\C# Projects\hostelproject\obj\Debug\hostelproject.Rooms.resources
+E:\C# Projects\hostelproject\obj\Debug\hostelproject.Salary.resources
+E:\C# Projects\hostelproject\obj\Debug\hostelproject.Student.resources
+E:\C# Projects\hostelproject\obj\Debug\hostelproject.csproj.GenerateResource.cache
+E:\C# Projects\hostelproject\obj\Debug\hostelproject.csproj.CoreCompileInputs.cache
+E:\C# Projects\hostelproject\obj\Debug\hostelproject.exe
+E:\C# Projects\hostelproject\obj\Debug\hostelproject.pdb
