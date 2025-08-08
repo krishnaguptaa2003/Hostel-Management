@@ -6,7 +6,7 @@ Comprehensive Management: Modules for Rooms, Students, Employees, Fees, and Sala
 
 CRUD Operations: Easily Add, Update, and Delete records across all sections.
 
-Local Data Storage: Data is stored locally, with information displayed in lists for easy viewing.
+Local Data Storage: Data is stored locally, with information displayed in lists for easy viewing data.
 
 Intuitive Interface: Developed using Visual Studio's drag-and-drop tools for a straightforward user experience.
 
